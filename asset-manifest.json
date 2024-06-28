@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/autosomal-recessive-calculator-2.0/static/css/main.2bb4b68a.css",
-    "main.js": "/autosomal-recessive-calculator-2.0/static/js/main.7ae55c86.js",
+    "main.js": "/autosomal-recessive-calculator-2.0/static/js/main.782fae02.js",
     "index.html": "/autosomal-recessive-calculator-2.0/index.html",
     "main.2bb4b68a.css.map": "/autosomal-recessive-calculator-2.0/static/css/main.2bb4b68a.css.map",
-    "main.7ae55c86.js.map": "/autosomal-recessive-calculator-2.0/static/js/main.7ae55c86.js.map"
+    "main.782fae02.js.map": "/autosomal-recessive-calculator-2.0/static/js/main.782fae02.js.map"
   },
   "entrypoints": [
     "static/css/main.2bb4b68a.css",
-    "static/js/main.7ae55c86.js"
+    "static/js/main.782fae02.js"
   ]
 }
